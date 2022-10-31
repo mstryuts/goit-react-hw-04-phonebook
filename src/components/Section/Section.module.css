@@ -1,0 +1,15 @@
+.section {
+  width: 400px;
+  margin: 0px auto;
+  background-color: rgb(238, 238, 238);
+}
+
+.title {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.25;
+  text-align: center;
+  color: black;
+}

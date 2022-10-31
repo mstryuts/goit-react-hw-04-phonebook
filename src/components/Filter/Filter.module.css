@@ -1,0 +1,17 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  margin: 0px auto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.25;
+}
+.input {
+  margin-top: 10px;
+  width: 210px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.25;
+}

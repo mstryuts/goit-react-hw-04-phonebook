@@ -1,0 +1,27 @@
+.list {
+  padding: 10px;
+  background-color: rgb(204, 204, 204);
+  border-radius: 10px;
+}
+
+.item {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: baseline;
+}
+.item:not(:last-child) {
+  margin-bottom: 30px;
+}
+.btn {
+  padding: 5px;
+  width: 100px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.25;
+  background-color: lightgreen;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
